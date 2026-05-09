@@ -1,21 +1,35 @@
 # Shipment Monitoring & Logistics Analytics Dashboard
 
-Enterprise-style logistics monitoring dashboard built using Grafana to visualize shipment KPIs, carrier analytics, operational metrics, and shipment-level investigation workflows.
+Enterprise-style shipment monitoring and logistics analytics dashboard built using Grafana, Infinity Plugin, JSON-based data modeling, and dashboard transformations to visualize operational KPIs, carrier performance, shipment status distribution, destination analytics, and shipment-level investigation workflows across 1000+ simulated logistics records.
 
 ## Features
-- Shipment Monitoring
-- Shipment Lookup
-- Carrier Analytics
-- Destination-wise Distribution
+- Real-time Shipment Monitoring
+- Shipment Lookup & Investigation Workflow
+- Carrier-wise Analytics
+- Destination-wise Shipment Distribution
 - Delivery Status Tracking
 - Avg Shipment Weight KPI
-- Grafana Dashboard Analytics
+- Dynamic Filtering & Dashboard Interactivity
+- Operational KPI Monitoring
+- Logistics Analytics Visualization
 
 ## Tech Stack
 - Grafana
 - Infinity Plugin
-- JSON Data
-- Dashboard Analytics
+- JSON Data Modeling
+- Dashboard Transformations
+- Data Visualization
+- Operational Monitoring
+- KPI Analytics
+
+## Skills Demonstrated
+- Dashboard Development
+- Operational Monitoring
+- Data Visualization
+- Analytics & KPI Tracking
+- Logistics Domain Understanding
+- Data Filtering & Transformations
+- Shipment Lifecycle Analytics
 
 ## Import Dashboard
 1. Open Grafana
